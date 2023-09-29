@@ -7,7 +7,7 @@
 
 
 // Pin Definitions
-// Straight from circuito with just some mods
+// djs - working with git
 
 
 
